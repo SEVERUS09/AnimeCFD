@@ -137,18 +137,26 @@ body {
     box-shadow: inset 0 0 5px #000;
     margin: 0 4px;
     cursor: default;
+    float: left;
+    white-space: nowrap;
 }
 .genero {
     position: absolute;
     bottom: 20px;
     left: 190px;
     text-transform: uppercase;
+    margin-right: 20px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: flex;
+    width: -webkit-fill-available;
+    width: 82%;
+    padding-bottom: 4px;
 }
 table {
     border-collapse: collapse;
     border-spacing: 0;
     width: 100%;
-    border: 1px solid #ddd;
     color: #fff;
 }
   
