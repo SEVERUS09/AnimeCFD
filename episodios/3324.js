@@ -1,5 +1,5 @@
 var EPR1_1 = "https://severus09.github.io/AnimeCFD/3324-1.html";
-var EPR1_2 = "https://severus09.github.io/AnimeCFD/v/3324-1v2.html";
+var EPR1_2 = "https://streamium.xyz/gocdn.html#UEMyMWt1QlowRlBUZ1lOTEFkNUpTUml3TlVDSWIzbC9rMU5LRW5pbUNxUGloTEhiT3JhSCtHSFZGZkVGUC91cXV4eCsybjdvWng2YXUwOFF4ZXFvQzBWMStrWkhFM3NoQmpyN3ZSTFg1NjQ1TG5UN3UrUU04enR4TkttRFdJYmtYdUdVaElUNS9yay9qNGtOZ3J2bjdHVXNrK0ErMzlyNlVZMzFHSFMvamJnPQ==";
 var EPR1_3 = "https://embedsito.com/v/8pyd0f8pq3ywdnq";
 var EPR1_4 = "https://streamtape.com/e/lAyJqJPl6LT7Mar/";
 var EPR1_5 = "https://www.yourupload.com/embed/8CDq4y8F1I6W";
