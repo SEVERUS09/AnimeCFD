@@ -89,7 +89,7 @@ var EPR13_4 = "https://hqq.tv/player/embed_player.php?vid=UEt6TTVnMlI4TzV3MzZCND
 var EPR13_5 = "https://www.yourupload.com/embed/m0VY5hnypf7R";
 var EPR13_6 = "https://mega.nz/embed#!EYoFCIYR!J5QFCRnKePHdlLIbnxAmb3wRuLwscNNWvxXQkCDSfpw";
 
-var EPR14_1 = "https://streamium.xyz/gocdn.html#SU94eWZocUhjbFBVdzNQY2NBVXRlb3RsaFlEdXRxS29kZ0prQ3N3S2o2dEdTVnN0TEU2Q2paUFcwWThRLzJhVkowcWFaaWRoZ01vVGN2VVRUVW5WMlNGakRnc0VBYXFlcDRZTlV2RUpaa1BHMTg4RVEzS1QxYzlhMURJNFRoVjJEazM4eXBLTkQ5eVkzVTJLVnBYV1FQSDR4OFcybjltUDd3dFJ3MzhWUkNFPQ==;
+var EPR14_1 = "https://streamium.xyz/gocdn.html#SU94eWZocUhjbFBVdzNQY2NBVXRlb3RsaFlEdXRxS29kZ0prQ3N3S2o2dEdTVnN0TEU2Q2paUFcwWThRLzJhVkowcWFaaWRoZ01vVGN2VVRUVW5WMlNGakRnc0VBYXFlcDRZTlV2RUpaa1BHMTg4RVEzS1QxYzlhMURJNFRoVjJEazM4eXBLTkQ5eVkzVTJLVnBYV1FQSDR4OFcybjltUDd3dFJ3MzhWUkNFPQ==";
 var EPR14_2 = "https://streamtape.com/e/4mXg8DYBQ2cd7a/";
 var EPR14_3 = "https://embedsito.com/v/e2zklh-z71zxg-0";
 var EPR14_4 = "https://hqq.tv/player/embed_player.php?vid=R09KanRNZXdkV3M0YzJVdFBxUTZXZz09";
@@ -103,7 +103,7 @@ var EPR15_4 = "https://hqq.tv/player/embed_player.php?vid=b2FHM2Z4dkRmZGpZZ2xWQm
 var EPR15_5 = "https://www.yourupload.com/embed/WvR41glIG3a7";
 var EPR15_6 = "https://mega.nz/embed#!3ZlQ2CLI!TXsCZ6DiQAIwfcC_Z81oHlQKVFLzrzORrPoDPhgzszw";
 
-var EPR16_1 = "https://streamium.xyz/gocdn.html#WmI5dWNVWmlYVEhkOU1zSks3U01KZUhxdE0vY1NIUkRsMEp6Ry9obUoxWVJxaWZsanlmNEZjcldnT2JMMjlJMGord2E3emFtQlNXVWhPY1QyOXp2MDJPWmZvb3VXUE1DRkZZWHd5bk5kb1A2Slc0Zjh5b05URmdpUWhHZnYrY2NFZ1BLakEwRm9md2V5YUdaMnAzaVhkbDlLK21EeXpSN2dUZkRHeVI2bEhjPQ==;
+var EPR16_1 = "https://streamium.xyz/gocdn.html#WmI5dWNVWmlYVEhkOU1zSks3U01KZUhxdE0vY1NIUkRsMEp6Ry9obUoxWVJxaWZsanlmNEZjcldnT2JMMjlJMGord2E3emFtQlNXVWhPY1QyOXp2MDJPWmZvb3VXUE1DRkZZWHd5bk5kb1A2Slc0Zjh5b05URmdpUWhHZnYrY2NFZ1BLakEwRm9md2V5YUdaMnAzaVhkbDlLK21EeXpSN2dUZkRHeVI2bEhjPQ==";
 var EPR16_2 = "https://streamtape.com/e/xvGO2VpMX6clMa/";
 var EPR16_3 = "https://embedsito.com/v/47134cze0pmz73e";
 var EPR16_4 = "https://hqq.tv/player/embed_player.php?vid=RWQ5TUlobGN4MUVQeEFqNGJvaEhHZz09";
