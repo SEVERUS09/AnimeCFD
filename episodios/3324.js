@@ -116,3 +116,10 @@ var EPR17_3 = "https://embedsito.com/v/w3wpgandp4wpw2r";
 var EPR17_4 = "https://hqq.tv/player/embed_player.php?vid=aW13aW11eVczTlE4QlpxUDJ2dXdMQT09";
 var EPR17_5 = "https://www.yourupload.com/embed/Ska1q0r7t13G";
 var EPR17_6 = "https://mega.nz/embed#!PEVWyThD!VXMKZBo8FHi27_4mGpkPb7XU7yPW53aneDecyAAUnaU";
+
+var EPR18_1 = "https://streamium.xyz/gocdn.html#Rk94YWNLODZNNUhNcjBxekM5UGY0dXRPZ3FDM3NrYTJwbmk5aUFBT1pqc1lqSi9hbGJkbnhaVE00ditYdjZ3WGY1T012eFVqNjlRODZUN05xNHgwalYySW9XaTY5VzRTLzEyZm51VTh3bHA3T2p1UytxL2xyZmh6bTNwSzQxcmxWd1paMVpINkhnQXh3ZGwvZG4xYUJzQkZZbEczV3hlVm5COW5YYmpqWURZPQ==";
+var EPR18_2 = "https://streamtape.com/e/7dMY6dm1P9uoXL/";
+var EPR18_3 = "https://embedsito.com/v/y26kwhen2wnm-j3";
+var EPR18_4 = "https://hqq.tv/player/embed_player.php?vid=dTZGRDMrbU54NmNwcnEzQ1FGUnBjQT09";
+var EPR18_5 = "https://www.yourupload.com/embed/SEunedFH4B57";
+var EPR18_6 = "https://mega.nz/embed#!oNkxGIrA!o0td996Q3r9TIJfDRwOQABKtWIIRzt1sgp1QtmmT5xA";
