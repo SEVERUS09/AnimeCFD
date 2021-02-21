@@ -79,7 +79,7 @@ for (i = 0; i < acc.length; i++) {
 }
 // botones de opciones activo
 var header = document.getElementById("myDIV");
-var btns = header.getElementsByClassName("btn");
+var btns = header.getElementsByClassName("btns");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
   var current = document.getElementsByClassName("active");
